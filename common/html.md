@@ -1,5 +1,5 @@
 # Basics
-……
+采用Google的[HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)，以下是需要特别注意的几点。
 ## DTD方式
 采用html5的头声明方式 `<!DOCTYPE html>`，DTD声明前不能有任何输出。
 > 参考 [Henri Sivonen整理的DTD分析](https://hsivonen.fi/doctype/)
