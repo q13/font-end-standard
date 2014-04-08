@@ -6,16 +6,16 @@
 
 ## Meta标签
 需要引入的几个标签：
-- `<meta charset="utf-8">`
-- `<meta http-equiv="X-UA-Compatible" content="IE=edge">`
-- `<meta name="viewport" content="width=device-width, initial-scale=1">`
+- `<meta charset="utf-8">`；
+- `<meta http-equiv="X-UA-Compatible" content="IE=edge">`；
+- `<meta name="viewport" content="width=device-width, initial-scale=1">`。
 
 请弄清各自含义再使用。
 >参考 http://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge
 
 ## 编写方式
-- 标签名(Tag name)、属性名(Attribute name)、属性值(Attribute value)采用小写字母，多单词属性(名/值)用`-`连接
-- 保证页面内id值唯一
-- 对于表单元素的name属性，其值采用小写字母，多单词用`_`连接
+- 标签名(Tag name)、属性名(Attribute name)、属性值(Attribute value)采用小写字母，多单词属性(名/值)用`-`连接；
+- 保证页面内id值唯一；
+- 对于表单元素的name属性，其值采用小写字母，多单词用`_`连接。
 
 
