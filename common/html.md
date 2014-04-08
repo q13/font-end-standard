@@ -14,8 +14,9 @@
 >参考 http://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge
 
 ## 编写方式
-- 标签名(Tag name)、属性名(Attribute name)、属性值(Attribute value)采用小写字母，多单词属性(名/值)用`-`连接；
-- 保证页面内id值唯一；
-- 对于表单元素的name属性，其值采用小写字母，多单词用`_`连接。
+- 标签名(Tag name)、属性名(Attribute name)、属性值(Attribute value)采用小写字母，多单词属性(名/值)用`-`（中划线）连接；
+- 保证页面内`id`值唯一；
+- 对于表单元素的`name`属性，其值采用小写字母，多单词用`_`（下划线）连接；
+- button标签需要指定对应的`type`值，image标签需要指定对应的`alt`值。
 
 
