@@ -1,2 +1,6 @@
 ## Basics
-定义编写html源码最小依赖级
+……
+### DTD
+采用html5的头声明方式```html
+<!DOCTYPE html>
+```
