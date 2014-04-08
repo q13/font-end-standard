@@ -1,8 +1,8 @@
 # Basics
 ……
 ## DTD方式
-采用html5的头声明方式 `<!DOCTYPE html>`，保证文档以Standards Mode或者Almost Standards Mode方式显示在主流浏览器下。
-> 参考 https://hsivonen.fi/doctype/
+采用html5的头声明方式 `<!DOCTYPE html>`，DTD声明前不能有任何输出。
+> 参考 [Henri Sivonen整理的DTD声明方式分析](https://hsivonen.fi/doctype/)
 
 ## Meta标签
 需要引入的几个标签：
