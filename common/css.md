@@ -36,6 +36,7 @@
 ```
 
 - 每条css声明后用`;`结尾
+
 ```css
 /* Not recommended */
 .cls-selector {
@@ -53,6 +54,7 @@
 
 - 忽略`0`后面的单位
 
+```css
 /* Not recommended */
 .cls-selector {
     font-size: 0px;
@@ -69,6 +71,7 @@
 
 - 对于一些css3的声明，一般不需要写私有前缀，留给预编译工具去解决这个问题
 
+```css
 /* Not recommended */
 .cls-selector {
     -moz-border-radius: 4px;
