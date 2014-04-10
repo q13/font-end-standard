@@ -6,13 +6,28 @@
 
 ```css
 /* Not recommended */
-.cssSelector {
+.clsSelector {
 
 }
 ```
 ```css
 /* Recommended */
-.css-selector {
+.cls-selector {
 
+}
+```
+
+- `{`应该在css选择符后，中间用空格隔开（可选），采用多行书写方式，`}`不能和`{`处于同一行
+
+```css
+/* Not recommended */
+.cls-selector
+{ font-size: 13px; color: red; }
+```
+```css
+/* Recommended */
+.cls-selector {
+    font-size: 13px;
+    color: red;
 }
 ```
