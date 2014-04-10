@@ -16,11 +16,11 @@ function funName(){
 }
 
 /* Recommended */
-var varName=1;
-var FunName=function(){
+var varName=1;  //驼峰式命名
+var FunName=function(){ //构造函数变量名首字母大写
     this.prop=1;
 };
-function Function(){
+function Function(){    //构造函数名首字母大写
     this.prop=1;
 }
 ```
