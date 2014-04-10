@@ -4,12 +4,15 @@
 ## 特别的
 - 不允许出现包含大写字母的css选择符
 
-> /* Not recommended */
+```css
+/* Not recommended */
 .cssSelector {
 
 }
-
-> /* Recommended */
+```
+```css
+/* Recommended */
 .css-selector {
 
 }
+```
