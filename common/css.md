@@ -7,13 +7,15 @@
 ```css
 /* Not recommended */
 .clsSelector {
-    ……
+    font-size: 13px;
+    color: red;
 }
 ```
 ```css
 /* Recommended */
 .cls-selector {
-    ……
+    font-size: 13px;
+    color: red;
 }
 ```
 
@@ -29,6 +31,5 @@
 .cls-selector {
     font-size: 13px;
     color: red;
-    ……
 }
 ```
