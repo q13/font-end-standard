@@ -25,7 +25,7 @@
 以下为一个html模版示例：
 
 ```html
-<!doctype html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
