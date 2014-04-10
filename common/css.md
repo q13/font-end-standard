@@ -23,13 +23,16 @@
 
 ```css
 /* Not recommended */
-.cls-selector
+.cls-selector1, .cls-selector2
 { font-size: 13px; color: red; }
 ```
 ```css
 /* Recommended */
-.cls-selector {
+.cls-selector1,
+.cls-selector2 {
     font-size: 13px;
     color: red;
 }
 ```
+
+-
