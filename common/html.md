@@ -13,7 +13,7 @@
 请弄清各自含义再使用。
 >参考 http://stackoverflow.com/questions/14611264/x-ua-compatible-content-ie-9-ie-8-ie-7-ie-edge
 
-## 编写方式
+## 特别的
 - 标签名(Tag name)、属性名(Attribute name)、属性值(Attribute value)采用小写字母，多单词属性(名/值)用`-`（中划线）连接；
 - 保证页面内`id`值唯一；
 - 对于表单元素的`name`属性，其值采用小写字母，多单词用`_`（下划线）连接；
