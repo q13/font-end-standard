@@ -10,8 +10,7 @@
     font-size: 13px;
     color: red;
 }
-```
-```css
+
 /* Recommended */
 .cls-selector {
     font-size: 13px;
@@ -25,8 +24,7 @@
 /* Not recommended */
 .cls-selector1, .cls-selector2
 { font-size: 13px; color: red; }
-```
-```css
+
 /* Recommended */
 .cls-selector1,
 .cls-selector2 {
@@ -43,8 +41,7 @@
     font-size: 13px;
     color: red
 }
-```
-```css
+
 /* Recommended */
 .cls-selector {
     font-size: 13px;
@@ -60,8 +57,7 @@
     font-size: 0px;
     color: red;
 }
-```
-```css
+
 /* Recommended */
 .cls-selector {
     font-size: 0;
@@ -78,8 +74,7 @@
     -webkit-border-radius: 4px;
     border-radius: 4px;
 }
-```
-```css
+
 /* Recommended */
 .cls-selector {
     border-radius: 4px;
