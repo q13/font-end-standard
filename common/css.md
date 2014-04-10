@@ -36,7 +36,7 @@
 ```
 
 - 每条css声明后用`;`结尾
-
+```css
 /* Not recommended */
 .cls-selector {
     font-size: 13px;
