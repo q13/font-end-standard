@@ -3,10 +3,12 @@
 
 ## 特别的
 - 不允许出现包含大写字母的css选择符
+
 > /* Not recommended */
 .cssSelector {
 
 }
+
 > /* Recommended */
 .css-selector {
 
