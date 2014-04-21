@@ -48,4 +48,21 @@ function funName(){
 }
 ```
 
+- 使用JSDoc文档规范，参考[介绍](http://usejsdoc.org/)
+
+```javascript
+/* Not recommended */
+/**
+ * Class making something fun and easy.
+ * @param {string} arg1 An argument that makes this more interesting.
+ * @param {Array.<number>} arg2 List of numbers to be processed.
+ * @constructor
+ * @extends {goog.Disposable}
+ */
+project.MyClass = function(arg1, arg2) {
+  // ...
+};
+
+```
+
 
