@@ -51,7 +51,7 @@ function funName(){
 - 使用JSDoc文档规范，参考[介绍](http://usejsdoc.org/)
 
 ```javascript
-/* Not recommended */
+/* Recommended */
 /**
  * Class making something fun and easy.
  * @param {string} arg1 An argument that makes this more interesting.
