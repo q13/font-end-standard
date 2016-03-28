@@ -22,7 +22,7 @@ var inst = new funName();
 
 /* Recommended */
 var varName = 1;  //驼峰式命名
-var FunName = function(){ //构造函数变量名首字母大写
+var FunName = function () { //构造函数变量名首字母大写
   this.prop = 1;
 };
 //or
@@ -38,7 +38,7 @@ var inst = new FunName();
 /* Not recommended */
 var varName = 1
 
-var funName = function(){
+var funName = function () {
 }
 
 function funName() {
