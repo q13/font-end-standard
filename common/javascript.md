@@ -65,7 +65,7 @@ function funName() {
  * @constructor
  * @extends {goog.Disposable}
  */
-project.MyClass = function(arg1, arg2) {
+project.MyClass = function (arg1, arg2) {
   // ...
 };
 
