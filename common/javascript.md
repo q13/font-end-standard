@@ -47,7 +47,7 @@ function funName() {
 /* Recommended */
 var varName = 1;
 
-var funName = function(){
+var funName = function () {
 };
 
 function funName() {
